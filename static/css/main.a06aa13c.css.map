@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.a06aa13c.css","mappings":"AAAA,KAGI,sBAAuB,CADvB,UAAY,CADZ,sCAGJ,CAEA,GACE,yBACF","sources":["styles.css"],"sourcesContent":["body{\r\n    font-family: Arial, Helvetica, sans-serif;\r\n    color: black;\r\n    background-color: beige;\r\n}\r\n\r\nh1{\r\n  text-decoration: underline;  \r\n}"],"names":[],"sourceRoot":""}
